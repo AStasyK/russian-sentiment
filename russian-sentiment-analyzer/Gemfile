@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+# gem "rails"
+gem 'mysql2'
+gem 'yandex_mystem'
+gem 'greeb'
+gem 'morphy'
+gem 'nmatrix'
